@@ -15,7 +15,7 @@ Sou estudante do 3º ano do Ensino Médio Técnico em Deselvolvimento de Sistema
 Busco construir uma base técnica forte antes de avançar para tecnologias mais complexas, desenvolvendo projetos práticos com JavaScript, React, Python e banco de dados.
 
 Tenho interesse especial em:
-- Desenvolvimento Front-End
+- Desenvolvimento back-end
 - Sistemas Web
 - Automação com Python
 - Construção de projetos completos (do zero ao deploy)
