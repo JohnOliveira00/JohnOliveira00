@@ -68,4 +68,4 @@ Busco oportunidade de estágio ou primeiro contato profissional na área de dese
 
 📧 Email: john203010p1@gmail.com
 🔗 LinkedIn: [https://www.linkedin.com/in/john-oliveira-1a58a0334  ](https://www.linkedin.com/in/john-oliveira-1a58a0334/)
-📌 LadingPage: https://lading-page-sigma-eight.vercel.app/
+📌 LadingPage: [npx plugins add vercel/vercel-plugin](https://lading-page-dun.vercel.app/)
