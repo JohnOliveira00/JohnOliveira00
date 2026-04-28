@@ -1,7 +1,7 @@
 <h1 align="center">John Oliveira</h1>  
              
 ---           
-             
+              
  **Desenvolvedor em Formação | JavaScript • Python**  
   
 > Construindo base sólida em programação e desenvolvendo projetos práticos para evoluir como desenvolvedor.
