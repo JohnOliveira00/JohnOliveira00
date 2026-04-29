@@ -1,6 +1,6 @@
 <h1 align="center">John Oliveira</h1>   
              
----           
+---            
               
  **Desenvolvedor em Formação | JavaScript • Python**  
   
