@@ -7,7 +7,7 @@
 > Construindo base sólida em programação e desenvolvendo projetos práticos para evoluir como desenvolvedor.
   
 --- 
-
+ 
 ## 🧠 Sobre
 
 Sou estudante do 3º ano do Ensino Médio Técnico em Deselvolvimento de Sistemas, focado em desenvolvimento web e fundamentos de programação.
