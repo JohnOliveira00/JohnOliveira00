@@ -56,7 +56,7 @@ Tenho interesse especial em:
 🔹 **Automação com Python**
 - Scripts para automação de tarefas
 - Manipulação de arquivos e lógica de controle
-
+ 
 ---
 
 ## 📈 Objetivo
