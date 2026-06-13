@@ -9,7 +9,7 @@
 ---  
   
 ## 🧠 Sobre
-
+ 
 Sou estudante do 3º ano do Ensino Médio Técnico em Deselvolvimento de Sistemas, focado em desenvolvimento web e fundamentos de programação.
 
 Busco construir uma base técnica forte antes de avançar para tecnologias mais complexas, desenvolvendo projetos práticos com JavaScript, React, Python e banco de dados.
