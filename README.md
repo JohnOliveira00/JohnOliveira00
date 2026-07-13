@@ -1,5 +1,5 @@
 <h1 align="center">John Oliveira</h1>               
-                                                             suas consequências.
+                                                     
 ---                                                                                                
                                                  
  **Desenvolvedor em Formação | JavaScript • Python**     
