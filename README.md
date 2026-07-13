@@ -1,5 +1,5 @@
 <h1 align="center">John Oliveira</h1>               
-                                                               Essa realidade é impulsionada pela falha na fiscalização da venda de bebidas alcoólicas a menores de idade e pela insuficiente orientação familiar acerca de suas consequências.
+                                                             suas consequências.
 ---                                                                                                
                                                  
  **Desenvolvedor em Formação | JavaScript • Python**     
